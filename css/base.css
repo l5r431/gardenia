@@ -16,10 +16,10 @@
 
   /* floating navigation bar */
   --nav-top: 10px;
-  --nav-h: 4.2rem;
+  --nav-h: 4rem;
   --nav-gap: 10px;
   --nav-radius: 30px;
-  --nav-side: 1.25rem;
+  --nav-side: .4rem;
   --nav-space: calc(var(--nav-top) + var(--nav-h) + var(--nav-gap));
 
   /* light text on dark areas, and the dark colour as numbers so shadows can follow the theme */
@@ -237,11 +237,13 @@ p {
 /* header */
 /* floating bar: 10px from the top, rounded ends, lifts off the page with a soft shadow */
 .site-header {
-  position: sticky;
-  top: var(--nav-top);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   z-index: 50;
-  width: min(var(--max), 100% - var(--nav-side) * 2);
-  margin: var(--nav-top) auto var(--nav-gap);
+  width: calc(100% - var(--nav-side) * 2);
+    margin: var(--nav-top) auto 0;
   border-radius: var(--nav-radius);
   background: var(--ink);
   color: var(--salt);
@@ -462,6 +464,7 @@ p {
   background: var(--ink);
   color: var(--salt);
   padding-block: clamp(2rem, 5vw, 3.5rem);
+  padding-top: calc(var(--nav-space) + 1rem);
 }
 
 .page-banner h1 {
@@ -1068,7 +1071,7 @@ body:has(.subnav) section[id] {
 }
 
 /* ===== reading progress bar (js/main.js sets the width as you scroll) ===== */
-.read-progress {
+/* .read-progress {
   position: fixed;
   top: 0;
   left: 0;
@@ -1079,7 +1082,7 @@ body:has(.subnav) section[id] {
   transform: scaleX(0);
   transform-origin: 0 50%;
   pointer-events: none;
-}
+} */
 
 /* ===== floating buttons, bottom right: back to top, and contact (WhatsApp / call) ===== */
 .fab-stack {

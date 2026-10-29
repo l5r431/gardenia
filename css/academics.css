@@ -184,7 +184,7 @@ tbody th {
 .page-banner--learn .wrap::before {
   content: "";
   position: absolute;
-  top: calc(var(--bp) * -1);
+    top: calc((var(--nav-space) + 1rem) * -1);
   bottom: calc(var(--bp) * -1);
   left: -1rem;
   width: 2px;

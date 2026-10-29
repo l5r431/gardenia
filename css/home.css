@@ -63,8 +63,8 @@
 
 .hero-sticky {
   position: sticky;
-  top: var(--nav-space);
-  height: calc(100vh - var(--nav-space));
+  top: 0;
+  height: 100vh;
   min-height: 520px;
   overflow: hidden;
   background: linear-gradient(#B7DDF0, #EAF4F8 72%);
@@ -121,7 +121,7 @@
 .hero-text {
   position: relative;
   z-index: 4;
-  padding-top: clamp(2.5rem, 9vh, 6rem);
+    padding-top: calc(var(--nav-space) + clamp(2.5rem, 9vh, 6rem));
   will-change: transform, opacity;
 }
 
@@ -363,10 +363,11 @@
  so there is no empty band above or below the cards. */
 .day--pinned .day-sticky {
   position: sticky;
-  top: var(--nav-space);
-  height: calc(100vh - var(--nav-space));
+  top: 0;
+  height: 100vh;
   min-height: 30rem;
   padding-block: 1.5rem;
+  padding-top: calc(var(--nav-space) + 0.5rem);
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   /* the column is exactly the screen wide, however long the track of cards is */
