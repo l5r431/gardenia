@@ -1,0 +1,121 @@
+Image slots on this site
+========================
+Replace a placeholder by saving your photo in this folder and changing the src in the HTML.
+Keep the width/height attributes the same shape (ratio) so the layout does not jump.
+
+index-banner.svg   1600 x 600   
+academics-banner.svg   1600 x 600   
+learning-stage.svg   1200 x 600   Children learning together in their classroom
+learning-reading.svg   1600 x 700   A small group reading picture books on the story carpet
+learning-support.svg   1000 x 700   A teaching assistant helping a child one to one
+learning-reports.svg   1600 x 600   A teacher sharing a child's work with a parent
+life-banner.svg   1600 x 600   
+club-mini-football.svg   600 x 450   Mini football
+club-gymnastics.svg   600 x 450   Gymnastics
+club-swimming-club.svg   600 x 450   Swimming club
+club-dance.svg   600 x 450   Dance
+club-choir.svg   600 x 450   Choir
+club-drama.svg   600 x 450   Drama
+club-messy-art.svg   600 x 450   Messy art
+club-recorder-and-ukulele.svg   600 x 450   Recorder and ukulele
+club-forest-club.svg   600 x 450   Forest club
+club-gardening.svg   600 x 450   Gardening
+club-bug-hunters.svg   600 x 450   Bug hunters
+club-beach-explorers.svg   600 x 450   Beach explorers
+club-reading-buddies.svg   600 x 450   Reading buddies
+club-eco-team.svg   600 x 450   Eco team
+club-school-council.svg   600 x 450   School council
+club-chess-and-games.svg   600 x 450   Chess and games
+forest-school.svg   1200 x 800   Children around the fire circle in the woodland classroom
+trip-reception.svg   800 x 600   Reception children at the farm
+trip-year2.svg   800 x 600   A group at the lighthouse
+trip-year4.svg   800 x 600   Children at the castle gates
+trip-year6.svg   800 x 600   Year 6 pupils kayaking
+meals-lunch.svg   1400 x 700   Children eating lunch together in the dining hall
+class-ducklings.svg   800 x 600   The Ducklings room
+class-otters.svg   800 x 600   The Otters room
+class-kingfishers.svg   800 x 600   The Kingfishers classroom
+class-herons.svg   800 x 600   Herons and Owls working together
+admissions-banner.svg   1600 x 600   
+step-visit.svg   800 x 600   A family on a school tour
+step-register.svg   800 x 600   A parent filling in the registration form
+step-play.svg   800 x 600   A child on a play morning
+step-offer.svg   800 x 600   A family reading their offer letter
+admissions-first-day.svg   1000 x 700   A child hanging up their coat on the first day
+settle-taster.svg   800 x 600   A parent and child on a taster session
+settle-key-person.svg   800 x 600   A key person greeting a child
+settle-photos.svg   800 x 600   A parent looking at the daily photo update
+contact-banner.svg   1600 x 600   
+contact-entrance.svg   1200 x 700   The front entrance of the school
+visit-welcome.svg   800 x 600   A teacher welcoming a family at the door
+visit-lesson.svg   800 x 600   A family watching a lesson
+visit-head.svg   800 x 600   Parents chatting with the Head
+visit-prospectus.svg   800 x 600   A family leaving with a prospectus
+getting-walking.svg   800 x 600   The walking bus on its way to school
+getting-bus.svg   800 x 600   The school bus at the gate
+getting-car.svg   800 x 600   The drop-off bays on Larkhaven Lane
+about-banner.svg   1600 x 600   
+about-story.svg   1200 x 900   An old photograph of the boathouse school
+approach-play.svg   800 x 600   Children playing at the sand tray
+approach-words.svg   800 x 600   A teacher reading a story to a circle of children
+approach-nature.svg   800 x 600   Children exploring the woodland
+approach-feelings.svg   800 x 600   Two children comforting each other
+person-anna-holloway.svg   400 x 400   Portrait of Anna Holloway, Head of the School
+person-rafael-mendes.svg   400 x 400   Portrait of Rafael Mendes, Deputy Head, Learning
+person-priya-nair.svg   400 x 400   Portrait of Priya Nair, Head of Kindergarten
+person-daniel-okafor.svg   400 x 400   Portrait of Daniel Okafor, Head of Primary
+person-sade-komolafe.svg   400 x 400   Portrait of Sade Komolafe, Designated Safeguarding Lead
+person-hannah-brooks.svg   400 x 400   Portrait of Hannah Brooks, Head of Learning Support
+person-tom-wardle.svg   400 x 400   Portrait of Tom Wardle, Forest School Lead
+person-grace-linden.svg   400 x 400   Portrait of Grace Linden, School Business Manager
+person-marta-silva.svg   400 x 400   Portrait of Marta Silva, Admissions Registrar
+person-joel-whitaker.svg   400 x 400   Portrait of Joel Whitaker, Head of Clubs and Wraparound Care
+person-ms-aisha-rahman.svg   400 x 400   Portrait of Ms Aisha Rahman, Ducklings lead key person, ages 2 to 3
+person-mr-leo-fischer.svg   400 x 400   Portrait of Mr Leo Fischer, Otters class teacher, Pre-K
+person-ms-chloe-tran.svg   400 x 400   Portrait of Ms Chloe Tran, Kingfishers class teacher, Reception
+person-mrs-olivia-grant.svg   400 x 400   Portrait of Mrs Olivia Grant, Year 1 class teacher
+person-mr-samuel-adeyemi.svg   400 x 400   Portrait of Mr Samuel Adeyemi, Year 2 class teacher
+person-ms-nina-petrov.svg   400 x 400   Portrait of Ms Nina Petrov, Year 3 class teacher
+person-mr-jack-morrison.svg   400 x 400   Portrait of Mr Jack Morrison, Year 4 class teacher
+person-mrs-fatima-khan.svg   400 x 400   Portrait of Mrs Fatima Khan, Year 5 class teacher, science lead
+person-mr-ethan-cole.svg   400 x 400   Portrait of Mr Ethan Cole, Year 6 class teacher, prefect mentor
+person-ms-isabel-moreno.svg   400 x 400   Portrait of Ms Isabel Moreno, Spanish and French
+person-mr-kofi-mensah.svg   400 x 400   Portrait of Mr Kofi Mensah, Music
+person-ms-rhea-patel.svg   400 x 400   Portrait of Ms Rhea Patel, Art and design
+person-mr-callum-reid.svg   400 x 400   Portrait of Mr Callum Reid, PE and swimming
+person-ms-mei-liu.svg   400 x 400   Portrait of Ms Mei Liu, Computing and wellbeing
+pupil-amara.svg   400 x 400   Portrait of Amara, Head Pupil, Year 6
+pupil-theo.svg   400 x 400   Portrait of Theo, Head Pupil, Year 6
+pupil-sofia.svg   400 x 400   Portrait of Sofia, Deputy Head Pupil, Year 6
+pupil-kwame.svg   400 x 400   Portrait of Kwame, Deputy Head Pupil, Year 6
+pupil-mina.svg   400 x 400   Portrait of Mina, Library prefect, Year 6
+pupil-luca.svg   400 x 400   Portrait of Luca, Eco prefect, Year 6
+pupil-zainab.svg   400 x 400   Portrait of Zainab, Sports captain, Year 6
+pupil-arjun.svg   400 x 400   Portrait of Arjun, Music prefect, Year 6
+pupil-freya.svg   400 x 400   Portrait of Freya, Reading buddies lead, Year 6
+pupil-omar.svg   400 x 400   Portrait of Omar, School council chair, Year 6
+pupil-ella.svg   400 x 400   Portrait of Ella, Playground friends lead, Year 6
+pupil-noah.svg   400 x 400   Portrait of Noah, Garden prefect, Year 6
+campus-kindergarten.svg   900 x 600   Garden Cottage Kindergarten from the garden
+campus-primary.svg   900 x 600   The primary school building and playground
+space-mud-kitchen.svg   600 x 450   Mud kitchen
+space-library-tree-house.svg   600 x 450   Library tree house
+space-sensory-garden.svg   600 x 450   Sensory garden
+space-woodland-classroom.svg   600 x 450   Woodland classroom
+space-music-room.svg   600 x 450   Music room
+space-small-farm.svg   600 x 450   Small farm
+space-splash-pool.svg   600 x 450   Splash pool
+space-art-studio.svg   600 x 450   Art studio
+community-reading.svg   800 x 600   An older child reading to a younger one
+community-beach.svg   800 x 600   Children collecting litter on the beach
+community-friends.svg   800 x 600   Parents running a stall at the summer fair
+news-story-1.svg   1000 x 600   Photo for this news story
+news-story-2.svg   1000 x 600   Photo for this news story
+news-story-3.svg   1000 x 600   Photo for this news story
+news-story-4.svg   1000 x 600   Photo for this news story
+news-story-5.svg   1000 x 600   Photo for this news story
+news-story-6.svg   1000 x 600   Photo for this news story
+news-story-7.svg   1000 x 600   Photo for this news story
+news-story-8.svg   1000 x 600   Photo for this news story
+news-story-9.svg   1000 x 600   Photo for this news story
+head-portrait.svg   800 x 1000   Portrait of the Head, Anna Holloway
