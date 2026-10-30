@@ -316,7 +316,7 @@ function showStatus(el, message, kind) {
   const pill = document.createElement('div');
   pill.className = 'offline-pill';
   pill.setAttribute('role', 'status');
-  pill.textContent = 'You’re offline. Pages you’ve opened before still work.';
+  pill.textContent = 'Offline Mode.';
   document.body.appendChild(pill);
   const showOnline = () => pill.classList.toggle('show', !navigator.onLine);
   window.addEventListener('online', showOnline);

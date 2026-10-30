@@ -97,7 +97,7 @@ async function openPage(req) {
   } catch (err) {
     return (await cache.match(req, { ignoreSearch: true })) ||
            (await cache.match('offline.html')) ||
-           new Response('You are offline.', { status: 503, headers: { 'Content-Type': 'text/plain' } });
+           new Response('Offline.', { status: 503, headers: { 'Content-Type': 'text/plain' } });
   }
 }
 
